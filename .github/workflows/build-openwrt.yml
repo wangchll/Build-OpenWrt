@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - master
-    # paths:
+     paths:
     #   - '.config'
-    #   - 'mw4530r.config'
+       - 'mw4530r.config'
     #   - 'tl-wr720n.config'
   # schedule:
   #   - cron: 0 8 * * 5
