@@ -16,8 +16,8 @@ on:
   #   types: published
 
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
-  # REPO_URL: https://github.com/coolsnowwolf/lede
+  # REPO_URL: https://github.com/openwrt/openwrt
+  REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
   # CONFIG_FILE: .config
   DIY_SH: diy.sh
